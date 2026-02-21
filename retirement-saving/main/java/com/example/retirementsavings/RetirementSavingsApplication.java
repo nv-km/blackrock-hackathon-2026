@@ -1,14 +1,14 @@
-package com.example.blackrock_hackathon;
+package com.example.retirementsavings;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BlackrockHackathonApplication {
+public class RetirementSavingsApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(BlackrockHackathonApplication.class, args);
+		SpringApplication.run(RetirementSavingsApplication.class, args);
 	}
 
 }
